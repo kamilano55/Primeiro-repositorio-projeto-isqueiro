@@ -25,6 +25,7 @@ public class Isqueiro {
         System.out.println("E o isqueiro está aceso? " + this.aceso);
         System.out.println("-----------------------------------");
     }//Alterado da Web
+    //Alterado do Netbeans
   
     void aceso(){
         this.aceso = true;
