@@ -1,3 +1,4 @@
+
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
@@ -23,7 +24,7 @@ public class Isqueiro {
         System.out.println("a marca é " + this.marca);
         System.out.println("E o isqueiro está aceso? " + this.aceso);
         System.out.println("-----------------------------------");
-    }
+    }//Alterado da Web
   
     void aceso(){
         this.aceso = true;
